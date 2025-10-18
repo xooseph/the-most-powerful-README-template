@@ -4,6 +4,12 @@
 <br />
 <div align="center">
   <h1>The Most Powerful README Template</h1>
+
+  [![Language][language-shield]][language-url]
+  ![Language][language-top-shield]
+  ![Repo Size][repo-size-shield]
+  ![Last Commit][last-commit-shield]
+  [![License][license-shield]][license-url]
 </div>
 
 <!-- TABLE OF CONTENTS -->
@@ -64,3 +70,12 @@
 <h2 id="license">License</h2>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SHIELDS AND LINKS -->
+[language-shield]: https://img.shields.io/badge/Language-Version-pink?style=for-the-badge&labelColor=2C363F&color=E75A7C
+[language-url]: https://www.example.com
+[language-top-shield]: https://img.shields.io/github/languages/top/xooseph/the-most-powerful-README-template?style=for-the-badge&labelColor=2C363F&color=E75A7C
+[repo-size-shield]: https://img.shields.io/github/repo-size/xooseph/the-most-powerful-README-template?style=for-the-badge&labelColor=2C363F&color=E75A7C
+[last-commit-shield]: https://img.shields.io/github/last-commit/xooseph/the-most-powerful-README-template?style=for-the-badge&labelColor=2C363F&color=E75A7C
+[license-shield]: https://img.shields.io/github/license/xooseph/the-most-powerful-README-template?style=for-the-badge&labelColor=2C363F&color=E75A7C
+[license-url]: https://www.example.com
